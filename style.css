@@ -1,0 +1,10 @@
+button {
+  border-color: black;
+  border: 5px solid;
+  border-bottom-color: brown;
+}
+
+body {
+  background-image: url("./sili.png");
+  background-size: cover;
+}
