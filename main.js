@@ -1,5 +1,5 @@
 var img = new Image();
-img.src = "./coloredBuilding.jpg";
+img.src = "./coloredBuilding.JPG";
 
 var backgroundImage = {
   img: img,
@@ -174,7 +174,7 @@ var baby = {
 };
 
 var babyImage = new Image();
-babyImage.src = "./bebeVector.png";
+babyImage.src = "./bebeVector.PNG";
 
 function updateCanvas() {
   if (player.isGameOver) return;
